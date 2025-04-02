@@ -13,7 +13,6 @@
     "name": "Sistema de gestión fundación MITEA",
     "description": "Plataforma responsiva de gestión de pacientes y atenciones médicas, diseñada para optimizar la administración de consultas, historiales clínicos y agendamiento de citas a través de una interfaz intuitiva y segura.",
     "image": "/sistema-2.jpg",
-    "liveUrl": "https://task-manager-app.vercel.app",
     "githubUrl": "https://github.com/lorenasotosanmartin/SistemaFundacionMITEA",
     "tags": ["Angular", "Node.js", "SQL", "Material Design"]
   }
