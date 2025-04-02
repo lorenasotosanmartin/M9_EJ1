@@ -67,7 +67,7 @@ const About = () => {
             <h3 class="text-xl font-bold mb-2 ">Experiencia</h3>
           </div>
           <a
-            href="public/LorenaSotoSanMartin_CV.pdf"
+            href="/LorenaSotoSanMartin_CV.pdf"
             download="LorenaSotoCV.pdf"
             className="inline-block text-center bg-secondary hover:bg-secondary/90 text-white py-3 px-8 rounded-full shadow-xl transition-colors"
           >
